@@ -21,7 +21,7 @@ to run an OpenVMS v8.4 system.
  
 # Hardware specifications
 
-* **Optical Drive: OptiArc DVD RW AD-5590A**
+* **Optical Drive: OptiArc DVD-RW AD-5170A**
 * Graphics card: ATI 7000 AGP
 * Disk controller: LSI21320-IS PCI-X SCSI U320 - 2pc.
 
@@ -38,6 +38,10 @@ carefully choosen.
 Plextor drives and some HP models support 512 bytes blocks (apparently
 those rebranded for OEM). Otherwise "DQ - Medium Not Ready" errors would
 prohibit installation.
+
+Please keep in mind that the original models may well be rebranded: for example
+OptiArc becomes Sony or HP. As a rule, the model code (AD-5170A) is usually
+retained throughout the re-branding.
 
 Also, see below the IDE channel notes.
 
