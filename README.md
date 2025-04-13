@@ -120,7 +120,7 @@ Rear USB ports, in contrast, do recognize them.
 
 # Gossip
 
-It seems (see the Itanic references in the [doc](doc/) directory, that the HP-PA C-8800 Workstation shares literally the same
+It seems (see the Itanic references in the [doc](doc/) directory), that the HP-PA C-8800 Workstation shares literally the same
 board with it, including the CPU socket. You shoud be able in theory to drop in a C-8800 (Mako) and flash the firmware (BMC and EFI)
 and it boots.
 
