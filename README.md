@@ -111,4 +111,16 @@ where X is the optical media drive.
 
 Special thanks to Brendan Horan for his blog notes here: https://www.horan.hk/blog/ia64-build/. Saved locally [here](doc/Itanium%202%2C%20I%27ve%20got%20one%20by%20Brendan%20Horan.pdf).
 
-comp.os.vms news group (NARKIVE) talk on zx2000 saved locally [here](doc/OpenVMS%20on%20zx2000%20or%20zx6000.pdf).
+comp.os.vms news group (NARKIVE) talk on zx2000 saved locally [here](doc/OpenVMS%20on%20zx2000%20or%20zx6000.pdf)
+
+# Hints
+
+Front USB ports do not seem to recognize HID devices (specifically keyboard and mouse), at least at boot in the EFI shell.
+Rear USB ports, in contrast, do recognize them.
+
+# Gossip
+
+It seems (see the Itanic references in the (doc)[doc/] directory, that the HP-PA C-8800 Workstation shares literally the same
+board with it, including the CPU socket. You shoud be able in theory to drop in a C-8800 (Mako) and flash the firmware (BMC and EFI)
+and it boots.
+
