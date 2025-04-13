@@ -1,4 +1,5 @@
-#Files explanation
+= Files explanation
+
 - efimptfl.efi is the EFI flash utility that *downloads* the *.rom files to HBA's *BIOS*.
 - lsimpt.rom is the *ROM* file per se.
 - lsimpt.efi - boot services driver, to be run via the EFI *load* command.
