@@ -1,2 +1,3 @@
+- HP_ZX2000_IPF_Intel_28F640J3_00-7FFFFF.bin raw ROM CHIP dump
 - hp_fwzre_108.efi   Version 2.21 (4334)  Version 1.50 (2003-05-01)    Current Release
 - hp_fwzre_107.efi   Version 2.01 (4322)  Version 1.50 (2003-05-01)    use pkg 108
